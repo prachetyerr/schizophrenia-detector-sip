@@ -1,7 +1,3 @@
-# Welcome to streamlit
+# Schizophrenia Detector App
 
-This is the app you get when you run `streamlit hello`, extracted as its own app.
-
-Edit [Hello.py](./Hello.py) to customize this app to your heart's desire. ❤️
-
-Check it out on [Streamlit Community Cloud](https://st-hello-app.streamlit.app/)
+This was deployed with the help of Streamlit, mainly focusing on the keywords that resemble suicidal behaviour in social media comments.
